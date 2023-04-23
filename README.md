@@ -9,7 +9,7 @@ Skills: ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?styl
 - 😄 Pronouns: He/Him 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shivamkaravadra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shivam-karavadra/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shivamkaravadra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://ca.linkedin.com/in/shivam-karavadra-64986621a?trk=public_profile_browsemap)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkaravadra)](https://github.com/anuraghazra/github-readme-stats)
 
