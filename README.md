@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Shivam
 #### I am a Dev Degree intern at Shopify and BCS Carleton University Student
-![I am a Dev Degree intern at Shopify and BCS Carleton University Student](![github-header-image](https://user-images.githubusercontent.com/113066696/233858846-52d96d15-d82e-4f5e-b8c2-ed889117f4af.png))
+![I am a Dev Degree intern at Shopify and BCS Carleton University Student](https://user-images.githubusercontent.com/113066696/233858846-52d96d15-d82e-4f5e-b8c2-ed889117f4af.png)
 
 Currently studying 📚 at Carleton University in Ottawa and working as a software development intern 💻 through Shopify's Dev Degree program.
 
